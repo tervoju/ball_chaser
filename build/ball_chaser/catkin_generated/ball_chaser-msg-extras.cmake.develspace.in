@@ -1,0 +1,2 @@
+set(ball_chaser_MESSAGE_FILES "")
+set(ball_chaser_SERVICE_FILES "/home/ubuntu/ros_ws/u_robo/src/ball_chaser/srv/DriveToTarget.srv")
