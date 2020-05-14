@@ -133,6 +133,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/ubuntu/ros_ws/u_robo/build/gtest/cmake_install.cmake")
   include("/home/ubuntu/ros_ws/u_robo/build/my_robot/cmake_install.cmake")
   include("/home/ubuntu/ros_ws/u_robo/build/ball_chaser/cmake_install.cmake")
+  include("/home/ubuntu/ros_ws/u_robo/build/pgm_map_creator/cmake_install.cmake")
 
 endif()
 
