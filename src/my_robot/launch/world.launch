@@ -13,7 +13,7 @@
   <include file="$(find my_robot)/launch/robot_description.launch"/>
 
   <!-- Launch other relevant files-->
-  <include file="$(find ball_chaser)/launch/ball_chaser.launch"/>
+  <!-- <include file="$(find ball_chaser)/launch/ball_chaser.launch"/> -->
 
   <!-- World File -->
   <arg name="world_file" default="$(find my_robot)/worlds/juhas.world"/>
